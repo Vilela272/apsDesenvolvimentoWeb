@@ -1,4 +1,4 @@
 # Guilherme Vilela Moreira
 
-. A proposta é desenvolver um site utilizando o desenvolvimento sustentável, aplicando nele os conteúdos estudados em aulas da disciplina de Desenvolvimento em Ambiente Web e alertar sobre os impactos no Meio Ambiente e na saúde humana, causados pelo descarte de pneus e como fazer o reuso dos mesmos para asfalto.​​​​​​​
+. A proposta é desenvolver um site utilizando o desenvolvimento sustentável, aplicando nele os conteúdos estudados em aulas da disciplina de Desenvolvimento em Ambiente Web e alertar sobre os impactos no Meio Ambiente e na saúde humana, causados pelo descarte de pneus e como fazer o reuso dos mesmos para asfalto.​​​​​​​  
 . O tema do projeto foi escolhido com base nos 17 objetivos de desenvolvimento sustentável da ONU (Organização da Nações Unidas), onde fizemos um estudo para apresentar uma análise do asfalto borracha, como uma boa for de reutilização e solução para destinação dos pneus descartados, por aplicar a borracha de pneus em sua produção, e resolver a questão de capeamento de vias e ruas.
